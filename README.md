@@ -50,19 +50,6 @@ For training our model, change 'data_path' argument and run
 
 
 
-## Pretrained models
-Single models
-[Segmentation]()
-[Depth]()
-[Surface normal]()
-
-
-MTL model:
-[CNN model]()
-[Transformer model]()
-
-For inference of our MTL model, run
-`python inference.py`
 
 
 
